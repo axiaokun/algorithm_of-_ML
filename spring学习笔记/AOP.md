@@ -9,7 +9,7 @@
 
 代理设计模式的原理：**使用一个代理将对象包装起来**，然后用该代理对象”取代”原始对象。任何对原始对象的调用都要通过代理。代理对象决定是否以及何时将方法调用转到原始对象上。
 
-![](image\动态代理结构图.png)
+![](https://github.com/axiaokun/algorithm_of-_ML/blob/master/spring%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/image/%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86%E7%BB%93%E6%9E%84%E5%9B%BE.png)
 
 里面的计算器相当于真正的功能类
 
