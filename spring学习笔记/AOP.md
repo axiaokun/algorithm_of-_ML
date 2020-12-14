@@ -124,7 +124,7 @@ AOP的关注点主要是切面，作用于模块化横切关注点（即公共�
 * 每个事物逻辑位于一个位置，代码不分散，便于维护和升级
 * 业务模块更简洁，只包含核心业务代码
 
-![](image\AOP示意图.png)
+![](https://github.com/axiaokun/algorithm_of-_ML/blob/master/spring%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/image/AOP%E7%A4%BA%E6%84%8F%E5%9B%BE.png)
 
 ### AOP术语
 
