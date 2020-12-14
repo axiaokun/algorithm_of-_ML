@@ -158,7 +158,7 @@ AOP的关注点主要是切面，作用于模块化横切关注点（即公共�
 
   定位连接点的方式。每个类的方法中都包含多个连接点，所以连接点是类中客观存在的事物。如果把连接点看作数据库中的记录，那么切入点就是查询条件——AOP可以通过切入点定位到特定的连接点。切点通过org.springframework.aop.Pointcut 接口进行描述，它使用类和方法作为连接点的查询条件
 
-![](image\AOP术语.png)
+![](https://github.com/axiaokun/algorithm_of-_ML/blob/master/spring%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/image/AOP%E6%9C%AF%E8%AF%AD.png)
 
 ## 使用spring中的AOP
 
